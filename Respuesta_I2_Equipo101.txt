@@ -1,6 +1,6 @@
 Rivoira Matias
 Granadillo Jeronimo
-Condori Kevin 
+Condori Kevin
 
 a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
 
