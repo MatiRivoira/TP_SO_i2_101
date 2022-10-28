@@ -3,8 +3,10 @@ Granadillo Jeronimo
 Condori Kevin
 
 a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+Usando el Sync fork de github	
 
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+si, lo pudo hacer y pueder ver lo que tengo
 
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 
