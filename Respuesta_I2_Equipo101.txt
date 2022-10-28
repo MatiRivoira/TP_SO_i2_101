@@ -17,3 +17,11 @@ No
 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos ,
+
+1- Matias Rivoira(Beta) Crea el repositorio, realiza un git clone y agrega el archivo fork.txt, luego realiza un git add ., git commit -m "initial commit", git remote add origin "url:repositorio", y un git push
+2- Kevin Condori(Gamma) y Jeronimo Granadillo(Alfa) forkean el repositorio y lo clonean en su pc de forma local(Utilizando git clone https://github.com/Usuario/TP_SO_i2_101).
+,y agregan sus datos en fork.txt, luego realizan un git push origin main, una vez subida realizan una pull request.
+3- Beta hacepta las pull request, actualiza su repositorio, y luego hace un git pull en su repositorio local y agrega NuevoDato.txt y hace un git push.
+4- Gamma y Alfa sincronizan los repositorios (Synk fork) con el de Beta.
+5- Beta Agrega Respuesta_i2_Equipo101.txt y realiza un push al repositorio de git-
+6- Alfa y Gamma vuelven a sincronizarlo y realizan un git pull para tambien actualizar el repo local, y responder sus respuestas, y realizan un git push al repo en github, para luego solicitar otra pull request.
